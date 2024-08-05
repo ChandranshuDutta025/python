@@ -1,4 +1,2 @@
-for i in range(1,10,2):#stop and start condition only / range(start,stop,step)
-#     print(i)
-
-# for i 
+if (s1.marks1 + s1.marks2 + s1.marks3) / 3 > s1.name:
+    print(s1.name)
