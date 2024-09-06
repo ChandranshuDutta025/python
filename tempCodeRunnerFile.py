@@ -1,2 +1,3 @@
-if (s1.marks1 + s1.marks2 + s1.marks3) / 3 > s1.name:
-    print(s1.name)
+ttk.Label(frm, text="Hello World!").grid(column=0, row=0)
+# ttk.Button(frm, text="Quit", command=root.destroy).grid(column=1, row=1)
+# root.mainloop()

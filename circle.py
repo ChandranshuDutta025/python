@@ -9,7 +9,8 @@ class Circle:
         
         return (self.radius * 3.17 * 2)
     
-c1 = Circle(3)
+rad = int(input("Enter the radius of circle: "))
+c1 = Circle(rad)
 perimeter = c1.perimeter()
 print(perimeter)
 area = c1.Area()
